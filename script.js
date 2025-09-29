@@ -28,6 +28,5 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
             }, Math.random() * 10000);
         });
-    }, 1000);
-
+    }, 800);
 });
